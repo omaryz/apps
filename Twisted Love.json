@@ -1,6 +1,6 @@
 {
   "ads": {
-    "showAds": true,
+    "showAds": false,
     "showBanner": false,
     "showInterstitial": true,
     "showNative": true,
