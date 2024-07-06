@@ -1,7 +1,7 @@
 {
   "ads": {
     "showAds": true,
-    "showBanner": false,
+    "showBanner": true,
     "showInterstitial": true,
     "showNative": true,
     "showOpenAd": true,
