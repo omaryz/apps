@@ -1,1 +1,14 @@
-
+{
+  "ads": {
+    "showAds": false,
+    "showBanner": false,
+    "showInterstitial": false,
+    "showNative": false,
+    "showOpenAd": false,
+    "admobBanner": "ca-app-pub-9365753898529237/5007190490",
+    "admobInterstitial": "ca-app-pub-9365753898529237/2764170531",
+    "admobNative": "ca-app-pub-9365753898529237/5198762184",
+    "admobOpenAd": "ca-app-pub-9365753898529237/1867141397",
+    "oneSignalID": "54520f92-2da4-49c7-b8a9-32800e452899"
+  }
+}
