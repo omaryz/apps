@@ -1,10 +1,10 @@
 {
   "ads": {
-    "showAds": false,
-    "showBanner": false,
-    "showInterstitial": false,
-    "showNative": false,
-    "showOpenAd": false,
+    "showAds": True,
+    "showBanner": True,
+    "showInterstitial": True,
+    "showNative": True,
+    "showOpenAd": True,
     "admobBanner": "ca-app-pub-9365753898529237/3433543937",
     "admobInterstitial": "ca-app-pub-9365753898529237/4208016665",
     "admobNative": "ca-app-pub-9365753898529237/6248776514",
