@@ -1,14 +1,14 @@
 {
   "ads": {
-    "showAds": true,
-    "showBanner": true,
-    "showInterstitial": true,
-    "showNative": true,
-    "showOpenAd": true,
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "admobNative": "ca-app-pub-3940256099942544/2247696110",
-    "admobOpenAd": "ca-app-pub-3940256099942544/9257395921",
-    "oneSignalID": "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+    "showAds": false,
+    "showBanner": false,
+    "showInterstitial": false,
+    "showNative": false,
+    "showOpenAd": false,
+    "admobBanner": "ca-app-pub-9365753898529237/3582799316",
+    "admobInterstitial": "ca-app-pub-9365753898529237/8643554304",
+    "admobNative": "ca-app-pub-9365753898529237/1495590390",
+    "admobOpenAd": "ca-app-pub-9365753898529237/3930182045",
+    "oneSignalID": "8190df12-9175-4b84-ac3a-1cbcd95fed25"
   }
 }
